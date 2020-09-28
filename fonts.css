@@ -1,0 +1,116 @@
+﻿/*
+This CSS resource incorporates links to font software which is
+the valuable copyrighted property of WebType LLC, The Font Bureau
+and/or their suppliers. You may not
+attempt to copy, install, redistribute, convert, modify or reverse
+engineer this font software. Please contact WebType with any
+questions: http://www.webtype.com
+*/
+
+@font-face {
+    font-family: "BentonSans Regular";
+    src: url("5baf02e2-83c2-4843-a28c-de034aa0366c-2.eot");
+    src: url("5baf02e2-83c2-4843-a28c-de034aa0366c-2.eot?") format("embedded-opentype"), url("5baf02e2-83c2-4843-a28c-de034aa0366c-3.woff") format("woff"), url("5baf02e2-83c2-4843-a28c-de034aa0366c-1.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "BentonSans Medium";
+    src: url("c8993988-2360-4014-ad4b-d7f232765c52-2.eot");
+    src: url("c8993988-2360-4014-ad4b-d7f232765c52-2.eot?") format("embedded-opentype"), url("c8993988-2360-4014-ad4b-d7f232765c52-3.woff") format("woff"), url("c8993988-2360-4014-ad4b-d7f232765c52-1.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "BentonSans Light";
+    src: url("d7e6a3fc-19d4-460c-a4bb-d024baedfb65-2.eot");
+    src: url("d7e6a3fc-19d4-460c-a4bb-d024baedfb65-2.eot?") format("embedded-opentype"), url("d7e6a3fc-19d4-460c-a4bb-d024baedfb65-3.woff") format("woff"), url("d7e6a3fc-19d4-460c-a4bb-d024baedfb65-1.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+
+/*
+        This font software is the property of Commercial Type.
+
+        You may not modify the font software, use it on another website, or install it on a computer.
+
+        License information is available at http://commercialtype.com/eula
+        For more information please visit Commercial Type at http://commercialtype.com or email us at info[at]commercialtype.com
+
+        Copyright (C) 2013 Schwartzco Inc.
+        License: 1512-EPOLHA
+*/
+
+
+@font-face {
+    font-family: 'Graphik Web Medium';
+    src: url('Graphik-Medium-Cy-Gr-Web.eot');
+    src: url('Graphik-Medium-Cy-Gr-Web.eot?#iefix') format('embedded-opentype'), url('Graphik-Medium-Cy-Gr-Web.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+}
+
+.Graphik-Medium-Cy-Gr-Web {
+    font-family: 'Graphik Web Medium';
+    font-weight: 500;
+    font-style: normal;
+    font-stretch: normal;
+}
+
+
+@font-face {
+    font-family: 'Graphik Web Regular';
+    src: url('Graphik-Regular-Cy-Gr-Web.eot');
+    src: url('Graphik-Regular-Cy-Gr-Web.eot?#iefix') format('embedded-opentype'), url('Graphik-Regular-Cy-Gr-Web.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+}
+
+.Graphik-Regular-Cy-Gr-Web {
+    font-family: 'Graphik Web Regular';
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+}
+
+
+@font-face {
+    font-family: 'Graphik Web Light';
+    src: url('Graphik-Light-Cy-Gr-Web.eot');
+    src: url('Graphik-Light-Cy-Gr-Web.eot?#iefix') format('embedded-opentype'), url('Graphik-Light-Cy-Gr-Web.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+}
+
+.Graphik-Light-Cy-Gr-Web {
+    font-family: 'Graphik Web Light';
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+}
+
+@font-face {
+    font-family: Graphik Pdf Regular;
+    src: url('Graphik-Regular-Cy-Gr-Web.ttf');
+}
+
+@font-face {
+    font-family: Noto Sans CJK JP Regular;
+    src: url('NotoSansCJKtc-Regular.ttf');
+}
+
+@font-face {
+    font-family: Noto Sans CJK JP Medium;
+    src: url('NotoSansCJKtc-Medium.ttf');
+}
+
+@font-face {
+    font-family: Noto Sans CJK JP Light;
+    src: url('NotoSansCJKtc-Light.ttf');
+}
